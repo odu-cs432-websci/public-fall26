@@ -1,4 +1,4 @@
-# ODU CS 432/532 - Web Science, Spring 2026
+# ODU CS 432/532 - Web Science, Fall 2026
 
 ## Links
 
