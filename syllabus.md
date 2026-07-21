@@ -17,7 +17,7 @@
 **Email:** nasreen at cs.odu.edu
 **Website:** <https://www.cs.odu.edu/~narif>
 
-Office hours will be held Mondays and Wednesdays Thursday by appointment only. Please use the appointment-scheduling link provided in Canvas. All scheduled meetings will take place via Zoom. Once your appointment is confirmed, you will receive a Zoom link in the confirmation email.
+Office hours will be held on Mondays and Wednesdays by appointment only. Please use the appointment-scheduling link provided in Canvas. All scheduled meetings will take place via Zoom. Once your appointment is confirmed, you will receive a Zoom link in the confirmation email.
 
 ## Course Description
 
@@ -389,14 +389,10 @@ The course schedule and activities are subject to change. Changes will be posted
 ### AI Usage
 
 The use of ChatGPT or other AI tools is permitted to some extent in this class. These tools are being rapidly adopted, so it is important that you have some experience with their use. These tools are best used to help you work smarter, not do your work for you. Remember that an essential part of being in graduate school is to develop skills that you will need to be successful in the workplace. Using aids just to complete an assignment in the quest for high marks will not help you after you leave school.
-
 I encourage you to use these tools to help deepen your understanding and to review material you find challenging. If you use them to blindly do your homework for you, your learning will suffer and it will be obvious. However, using them to clarify concepts, explain errors, or review material can help you learn more effectively.
 
 **Students may not submit an entire assignment, homework question, or programming task to a generative AI tool and ask it to produce the answer or solution.** AI tools should be used only as learning aids (e.g., asking for explanations of concepts, debugging hints, or clarifications), not as a replacement for your own work.
-
 For all homework assignments, you must include a list of websites or other references that you consult in solving the assignment. This includes AI tools. You must include the website for the tool and either a link to, or screenshot of, the conversation you had with the tool. You must also write out in your homework report the initial prompt that you used.
-
-See [Guidelines on the Use of ChatGPT in CS 432/532](chat-gpt.md) for additional information about using these tools in this course.
 
 *Note that this policy applies **only to CS 432/532** and does not imply that generative AI tools are permitted in other courses*
 
