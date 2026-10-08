@@ -41,7 +41,7 @@ If you uncover TimeMaps that are very large (e.g., for popular sites like <https
 * Manually remove those URI-Rs from your dataset (but note this in your report), or
 * Compress each TimeMap file individually (using pipe to `gzip` in the same command when downloading or after the download is completed). These compressed files can be used for further analysis by decompressing on the fly using commands like `zcat` or `zless` (or using gzip libraries in Python).
 
-Finally, upload the TimeMaps to your GitHub repo -- you'll also use these for Q2 and HW4.  Put them in a separate folder, not the same folder as your report.
+Finally, upload the TimeMaps to your GitHub repo -- you'll also use these for Q2 and Q3.  Put them in a separate folder, not the same folder as your report.
 * To upload/commit a large number of files to GitHub, [use the command line](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line).
 
 ### Q2. Analyze Mementos Per URI-R.
