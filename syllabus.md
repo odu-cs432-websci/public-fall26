@@ -54,31 +54,24 @@ Recommended introductory resources include:
 Here is a list of recommended books:
 
 - [*Python in a Nutshell*](https://www.oreilly.com/library/view/python-in-a/0596001886/) - 3rd edition available [via ODU](https://go.oreilly.com/old-dominion-university/library/view/python-in-a/9781491913833/)
-
   - mentioned in Module 2
 
 - [*Learning Python*](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) - 5th edition available [via ODU](https://go.oreilly.com/old-dominion-university/library/view/learning-python-5th/9781449355722/)
-
   - mentioned in Module 2
 
 - [*Search Engines Information Retrieval in Practice*](https://ciir.cs.umass.edu/irbook/) - pdf available
-
   - used in Module 3
 
 - [*Introduction to Information Retrieval*](https://nlp.stanford.edu/IR-book/) - pdf available
-
   - used in Module 3
 
 - [*Networks, Crowds, and Markets: Reasoning About a Highly Connected World*](http://www.cs.cornell.edu/home/kleinber/networks-book/) - preprint available
-
   - used in Module 5
 
 - [*Programming Collective Intelligence*](https://www.oreilly.com/library/view/programming-collective-intelligence/9780596529321/) - available [via ODU](https://go.oreilly.com/old-dominion-university/library/view/programming-collective-intelligence/9780596529321/)
-
   - used in Module 6
 
 - [*Speech and Language Processing*](https://web.stanford.edu/~jurafsky/slp3/) - pdf available
-
   - mentioned in Module 8
 
 ### Technology Requirements
@@ -287,7 +280,7 @@ What I expect from you, as my student:
 - All things HTTP — [CS 531: Web Server Design](https://cs531-f19.github.io/)
 - Information retrieval and metadata — [CS 734/834: Introduction to Information Retrieval](https://www.cs.odu.edu/~jwu/downloads/teaching/cs734-834-fall2021-syllabus.pdf)
 - Visualization and analytics — [CS 625: Data Visualization](https://weiglemc.github.io/teaching/2023-fall-cs625) and [CS 725/825: Information Visualization](https://weiglemc.github.io/teaching/2024-spr-cs725825)
-- Web programming — [CS 418/518: Web Programming](https://github.com/nasreenarif/cs418518-f25/blob/main/README.md)
+- Web programming — [CS 418/518: Web Programming](https://github.com/odu-cs418-webprogramming/public-fall26/blob/main/syllabus.md)
 - Data science — [CS 620: Introduction to Data Science](https://www.cs.odu.edu/~sampath/courses/f22/cs620/)
 
 ## Course History
