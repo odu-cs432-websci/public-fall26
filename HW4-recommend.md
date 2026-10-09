@@ -15,7 +15,7 @@ https://grouplens.org/datasets/movielens/100k/
 
 There are three files that we will use:
 
-1.  `u.data`: 100,000 ratings by 943 users on 1682 movies. Each user has rated at least 20 movies. Users and items are numbered
+1.  `u.data`: 100,000 ratings by 943 users on 1700 movies. Each user has rated at least 20 movies. Users and items are numbered
 consecutively from 1. The data is randomly ordered. This is a tab-separated list of 
 
 ```
@@ -35,7 +35,7 @@ Example:
 115     265     2       881171488
 ```
 
-2.  `u.item`: Information about the 1682 movies. This is a tab-separated list of
+2.  `u.item`: Information about the 1700 movies. This is a tab-separated list of
 
 ```
 movie id | movie title | release date | video release date | IMDb URL | unknown | Action | Adventure | Animation | Children's | Comedy | Crime | Documentary | Drama | Fantasy | Film-Noir | Horror | Musical | Mystery | Romance | Sci-Fi | Thriller | War | Western |
@@ -136,13 +136,13 @@ Re-do Q3 and Q4 using this dataset.
 
 ### Q6 *(2 points)*  
 
-Rank all 1682 movies in the 1997/1998 MovieLens dataset.  (*Rank*, not rate. These should be 1-1682.) Break any ties based on number of raters (for example, a movie with an average rating of 4 with 100 raters should be ranked higher than a movie with an average rating of 4 with only 50 raters).
+Rank all 1700 movies in the 1997/1998 MovieLens dataset.  (*Rank*, not rate. These should be 1-1700.) Break any ties based on number of raters (for example, a movie with an average rating of 4 with 100 raters should be ranked higher than a movie with an average rating of 4 with only 50 raters).
 
 Put a file with the full list in your repo.  List the top 10 and bottom 10 movies in your report.
 
 ### Q7 *(3 points)*  
 
-Rank the 1682 movies in the 1997/1998 MovieLens dataset according to [today's IMDB data](https://www.imdb.com/interfaces/).  Note that the IMDB data includes TV shows and other items that aren't movies. Break any ties based on number of raters (for example, a movie with an average rating of 7.2 with 10,000 raters should be ranked higher than a movie with a rating of 7.2 with only 9,000 raters).
+Rank the 1700 movies in the 1997/1998 MovieLens dataset according to [today's IMDB data](https://www.imdb.com/interfaces/).  Note that the IMDB data includes TV shows and other items that aren't movies. Break any ties based on number of raters (for example, a movie with an average rating of 7.2 with 10,000 raters should be ranked higher than a movie with a rating of 7.2 with only 9,000 raters).
 
 Put a file with the full list in your repo.  List the top 10 and bottom 10 movies in your report.
 
@@ -150,7 +150,7 @@ Put a file with the full list in your repo.  List the top 10 and bottom 10 movie
 
 *You must have done both Q6 and Q7 to complete this question.*
 
-Draw a scatterplot where each dot is a film (i.e., 1682 dots).  The x-axis is the MovieLens ranking (Q6) and the y-axis is today's IMDB ranking (Q7).  Note that the MovieLens ratings are 1-5 and the IMDB ratings are 1-10, so you may want to normalize the data before plotting.  *The scatterplot must be created in R or Python, no Excel.*
+Draw a scatterplot where each dot is a film (i.e., 1700 dots).  The x-axis is the MovieLens ranking (Q6) and the y-axis is today's IMDB ranking (Q7).  Note that the MovieLens ratings are 1-5 and the IMDB ratings are 1-10, so you may want to normalize the data before plotting.  *The scatterplot must be created in R or Python, no Excel.*
 
 *Q: Describe any interesting outliers.*
 

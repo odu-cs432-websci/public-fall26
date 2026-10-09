@@ -1,5 +1,5 @@
 # Homework 5 - Email Classification & LLM
-**Due:** Sunday, December 10, 2026 by 11:59pm 
+**Due:** Thursday, December 10, 2026 by 11:59pm 
 
 ## Assignment
 
